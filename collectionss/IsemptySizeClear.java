@@ -31,9 +31,6 @@ public class IsemptySizeClear {
        System.out.println(l1.size());
 
 
-       l1.toArray();
-       System.out.println(l1);
-
 
     }
 }

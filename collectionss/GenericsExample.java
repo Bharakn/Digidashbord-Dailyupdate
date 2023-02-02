@@ -19,7 +19,7 @@ public class GenericsExample {
         //i.add("Bharath"); compile time error
         i.add(2);
         i.add(10);
-        
+
         System.out.println(i);
     }
 }
